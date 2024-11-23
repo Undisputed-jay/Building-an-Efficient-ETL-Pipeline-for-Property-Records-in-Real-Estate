@@ -1,0 +1,501 @@
+zoning,features,propertyType,feature_id
+Unknown,{},Apartment,1
+Unknown,{},Single Family,2
+Unknown,{},Single Family,3
+Unknown,{},Unknown,4
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,5
+R-1,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Garage"", ""roofType"": ""Tile"", ""unitCount"": 1}",Single Family,6
+Unknown,"{""heating"": true, ""heatingType"": ""Gas"", ""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick / Stone"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Detached"", ""roomCount"": 6}",Single Family,7
+Unknown,NaN,Land,8
+Unknown,{},Unknown,9
+PUD: PLANNED UNIT DEVELOP,"{""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 2, ""foundationType"": ""OTHER"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 9, ""unitCount"": 1}",Single Family,10
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 6}",Single Family,11
+Unknown,NaN,Single Family,12
+Unknown,"{""architectureType"": ""Single Story"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Tile"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,13
+Unknown,NaN,Single Family,14
+Unknown,{},Unknown,15
+1FM60,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Retaining Wall"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Gas"", ""roofType"": ""Asphalt"", ""roomCount"": 4, ""unitCount"": 1}",Single Family,16
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 8}",Single Family,17
+Unknown,NaN,Apartment,18
+SA7,"{""architectureType"": ""Ranch"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,19
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""foundationType"": ""Footing"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""pool"": true, ""roofType"": ""Concrete Tile"", ""unitCount"": 1}",Single Family,20
+LARD1.5,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,21
+Unknown,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Combination"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""roomCount"": 8}",Single Family,22
+Unknown,{},Unknown,23
+Unknown,{},Single Family,24
+RS,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Shingle (Not Wood)"", ""unitCount"": 1}",Single Family,25
+R90,"{""architectureType"": ""Split Level"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,26
+Unknown,{},Unknown,27
+Unknown,"{""architectureType"": ""Ranch"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,28
+Unknown,{},Single Family,29
+Unknown,"{""architectureType"": ""Mobile Home"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 5, ""unitCount"": 1}",Manufactured,30
+20-R2,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 6}",Single Family,31
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 2, ""foundationType"": ""Footing, Continuous / Strip"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,32
+Unknown,{},Unknown,33
+Unknown,"{""cooling"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""roofType"": ""Composition Shingle"", ""coolingType"": ""Commercial""}",Single Family,34
+"5400:PLAN UNIT DEV,DUPLEX","{""architectureType"": ""Duplex"", ""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""unitCount"": 2}",Duplex-Triplex,35
+Unknown,"{""floorCount"": 1, ""roomCount"": 7}",Single Family,36
+R-8,"{""cooling"": true, ""coolingType"": ""Refrigeration"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Concrete"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,37
+R2,"{""architectureType"": ""Colonial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""pool"": true, ""poolType"": ""Pool, Concrete"", ""unitCount"": 1}",Single Family,38
+Z123,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,39
+R-1C,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Central""}",Single Family,40
+Unknown,"{""architectureType"": ""Contemporary"", ""exteriorType"": ""Siding"", ""fireplace"": true, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,41
+Unknown,{},Single Family,42
+Unknown,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,43
+Unknown,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Other"", ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Electric"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,44
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Combination"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Tile"", ""unitCount"": 1, ""foundationType"": ""Footing""}",Condo,45
+Unknown,NaN,Land,46
+Unknown,"{""architectureType"": ""Single Story"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""pool"": true, ""poolType"": ""Pool and Hot Tub / Spa"", ""roofType"": ""Tile"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,47
+Unknown,{},Condo,48
+Unknown,"{""floorCount"": 2, ""unitCount"": 1}",Single Family,49
+R-2(RESIDENTIAL 2 DU/AC),"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,50
+Unknown,{},Single Family,51
+Unknown,NaN,Land,52
+Unknown,NaN,Single Family,53
+Unknown,{},Unknown,54
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 7, ""unitCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached Garage""}",Single Family,55
+R1,"{""architectureType"": ""2+ Story"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Siding"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,56
+Unknown,{},Unknown,57
+R-6,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,58
+Unknown,"{""floorCount"": 1, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 3}",Single Family,59
+R-6,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Built-up (Layered Asphalt)"", ""unitCount"": 1}",Single Family,60
+Unknown,{},Single Family,61
+Unknown,{},Single Family,62
+PAD-MD,"{""cooling"": true, ""coolingType"": ""Refrigeration"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Wood"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,63
+"0100:SINGLE FAM,GENERAL","{""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""roofType"": ""Other"", ""unitCount"": 1}",Single Family,64
+Unknown,"{""architectureType"": ""Modern"", ""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Tile"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,65
+LARD2,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Commercial"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Condo,66
+"5700:DUPLEXES,GENERAL","{""floorCount"": 1, ""unitCount"": 2, ""architectureType"": ""Duplex"", ""exteriorType"": ""Concrete Block""}",Duplex-Triplex,67
+R2,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,68
+Unknown,"{""floorCount"": 1, ""roofType"": ""Shingle"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,69
+Unknown,NaN,Single Family,70
+Unknown,"{""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,71
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""exteriorType"": ""Brick"", ""heating"": true, ""heatingType"": ""Baseboard"", ""roomCount"": 4, ""unitCount"": 1}",Condo,72
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,73
+GR,"{""architectureType"": ""Condo / Apartment"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Radiant"", ""roomCount"": 4, ""unitCount"": 1}",Condo,74
+Unknown,"{""cooling"": true, ""coolingType"": ""Refrigeration"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 3, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Tile"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,75
+SR-3,"{""floorCount"": 2, ""unitCount"": 1}",Single Family,76
+Unknown,{},Unknown,77
+R4,"{""architectureType"": ""Duplex"", ""floorCount"": 3, ""unitCount"": 2}",Duplex-Triplex,78
+A1,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""roofType"": ""Asphalt"", ""roomCount"": 6}",Condo,79
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Electric"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,80
+Unknown,NaN,Single Family,81
+Unknown,{},Unknown,82
+"2100:ESTATES,15000 SQ LOT","{""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""roofType"": ""Other"", ""unitCount"": 1}",Single Family,83
+Z298,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""foundationType"": ""Pier / Post & Beam"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,84
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Central""}",Single Family,85
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached"", ""heating"": true, ""unitCount"": 1}",Single Family,86
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 1, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,87
+Unknown,"{""architectureType"": ""Bi-Level"", ""fireplace"": true, ""fireplaceType"": ""2 Story"", ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,88
+R6LM,"{""exteriorType"": ""Wood"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""unitCount"": 1}",Single Family,89
+Unknown,{},Townhouse,90
+RP3,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 2, ""foundationType"": ""OTHER"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Mixed"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 5}",Duplex-Triplex,91
+R1,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""foundationType"": ""Block"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Metal"", ""unitCount"": 1}",Single Family,92
+Unknown,{},Unknown,93
+Unknown,{},Unknown,94
+RS110,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Floor / Wall"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,95
+Unknown,{},Unknown,96
+Unknown,"{""architectureType"": ""Traditional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,97
+Unknown,"{""architectureType"": ""Contemporary"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Combination"", ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 7}",Single Family,98
+R1,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Heat Pump"", ""roofType"": ""Fiberglass"", ""unitCount"": 1}",Single Family,99
+Unknown,"{""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,100
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Gas"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,101
+R3,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 5}",Townhouse,102
+R-T-1,"{""architectureType"": ""Mobile Home"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Manufactured,103
+RS7,"{""architectureType"": ""Conventional"", ""exteriorType"": ""Asbestos Shingle"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Masonry"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,104
+Unknown,NaN,Land,105
+Unknown,{},Unknown,106
+OPUD,"{""cooling"": true, ""coolingType"": ""Package"", ""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""foundationType"": ""Footing"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""pool"": true, ""roofType"": ""Composition Shingle""}",Single Family,107
+8,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 7, ""unitCount"": 1}",Condo,108
+Unknown,"{""floorCount"": 2, ""roomCount"": 8}",Single Family,109
+R-1A,"{""floorCount"": 1, ""unitCount"": 1}",Single Family,110
+Unknown,{},Condo,111
+R6,"{""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Electric"", ""unitCount"": 1}",Single Family,112
+R-2,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageType"": ""Basement"", ""heating"": true, ""roofType"": ""Composition Shingle""}",Single Family,113
+R3,"{""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""roofType"": ""Composition Shingle"", ""unitCount"": 1, ""cooling"": true, ""coolingType"": ""Central"", ""heatingType"": ""Central""}",Single Family,114
+Unknown,{},Unknown,115
+Unknown,{},Unknown,116
+Unknown,"{""unitCount"": 12}",Apartment,117
+Unknown,"{""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Footing"", ""heating"": true, ""heatingType"": ""Radiant"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,118
+RS-18 PD,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""pool"": true, ""poolType"": ""In-Ground Vinyl Pool"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,119
+RA,"{""architectureType"": ""Colonial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Radiant"", ""roofType"": ""Asphalt"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,120
+LAR4,"{""architectureType"": ""Conventional"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Floor / Wall"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,121
+LB-R-2T,"{""architectureType"": ""Mobile Home"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Manufactured,122
+Unknown,{},Unknown,123
+M-M,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Refrigeration"", ""exteriorType"": ""Wood"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 4, ""unitCount"": 1}",Single Family,124
+R-1-B,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,125
+Unknown,{},Unknown,126
+Unknown,{},Unknown,127
+R-3(RESIDENTIAL 3 DU/AC),"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Heat Pump"", ""roofType"": ""Composition Shingle"", ""roomCount"": 9, ""unitCount"": 1}",Single Family,128
+Unknown,NaN,Land,129
+DOR15000*,"{""architectureType"": ""Conventional"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Floor / Wall"", ""pool"": true, ""poolType"": ""Pool and Hot Tub / Spa"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,130
+R3,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,131
+Unknown,NaN,Single Family,132
+Unknown,{},Unknown,133
+POOH*,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Central"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,134
+Unknown,{},Unknown,135
+R40,"{""architectureType"": ""Ranch"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Hot Water"", ""roofType"": ""Asphalt"", ""roomCount"": 5}",Single Family,136
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 10, ""unitCount"": 2}",Duplex-Triplex,137
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""foundationType"": ""Pile"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Metal"", ""unitCount"": 1}",Single Family,138
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""OTHER"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 7}",Single Family,139
+RA,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 6}",Single Family,140
+R-4,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stone"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Other"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,141
+Unknown,"{""floorCount"": 2, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Heat Pump""}",Single Family,142
+R6,"{""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""unitCount"": 1}",Single Family,143
+Unknown,"{""cooling"": true, ""exteriorType"": ""Vinyl"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,144
+Unknown,"{""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""roomCount"": 9, ""unitCount"": 1}",Single Family,145
+R,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,146
+RSA5,"{""exteriorType"": ""Brick"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Basement"", ""roomCount"": 6, ""unitCount"": 1, ""viewType"": ""Average""}",Single Family,147
+"0100:SINGLE FAM,GENERAL","{""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""roofType"": ""Other"", ""unitCount"": 1}",Single Family,148
+RS,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Siding"", ""floorCount"": 1, ""foundationType"": ""OTHER"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,149
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""roofType"": ""Composition Shingle""}",Single Family,150
+10-RD6,"{""architectureType"": ""Conventional"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 8, ""unitCount"": 1, ""cooling"": true, ""coolingType"": ""Central"", ""foundationType"": ""Raised"", ""garageSpaces"": 1}",Single Family,151
+R-1,"{""exteriorType"": ""Other"", ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageType"": ""Carport"", ""roofType"": ""Metal"", ""unitCount"": 1}",Single Family,152
+Unknown,"{""architectureType"": ""Cape Cod"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Mixed"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,153
+Unknown,"{""architectureType"": ""Traditional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Wood Shingle"", ""roomCount"": 6}",Single Family,154
+HHRAS1*,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 10, ""unitCount"": 1}",Single Family,155
+R2,"{""exteriorType"": ""Brick"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,156
+R-2,"{""architectureType"": ""Colonial"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 2, ""foundationType"": ""Slab"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Gas"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,157
+Unknown,{},Single Family,158
+LCD,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Basement"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,159
+8600:SPECIAL USE,"{""exteriorType"": ""Stucco"", ""floorCount"": 1, ""unitCount"": 1}",Single Family,160
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Siding"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Footing"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,161
+Unknown,{},Unknown,162
+Unknown,{},Unknown,163
+WP_SR,"{""architectureType"": ""Ranch"", ""cooling"": true, ""exteriorType"": ""OTHER"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 6, ""unitCount"": 1, ""coolingType"": ""Commercial""}",Single Family,164
+R-8.5,"{""cooling"": true, ""coolingType"": ""Refrigeration"", ""exteriorType"": ""Block"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""pool"": true, ""roofType"": ""Asphalt"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,165
+BPR1*,"{""architectureType"": ""Conventional"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,166
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick / Stone"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Gas"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,167
+R100-SINGLE FAM RES,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Shingle"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 10, ""unitCount"": 1}",Single Family,168
+Unknown,NaN,Land,169
+Unknown,NaN,Apartment,170
+RS-10,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Package"", ""roomCount"": 4, ""unitCount"": 1}",Single Family,171
+Unknown,"{""architectureType"": ""Other"", ""cooling"": true, ""coolingType"": ""Wall"", ""exteriorType"": ""Brick"", ""floorCount"": 1, ""foundationType"": ""Slab"", ""heating"": true, ""heatingType"": ""Hot Water"", ""roomCount"": 2}",Condo,172
+Unknown,NaN,Single Family,173
+Unknown,"{""architectureType"": ""Mobile Home"", ""unitCount"": 1}",Manufactured,174
+Unknown,"{""architectureType"": ""Ranch"", ""exteriorType"": ""Stucco"", ""fireplace"": true, ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Electric"", ""roomCount"": 6}",Single Family,175
+Unknown,"{""architectureType"": ""Single Story"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Built-up (Layered Asphalt)"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,176
+MPUD,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,177
+Unknown,"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick / Stone"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Attached"", ""roofType"": ""Shingle"", ""unitCount"": 1}",Single Family,178
+Unknown,NaN,Apartment,179
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 5}",Single Family,180
+Unknown,{},Unknown,181
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""fireplaceType"": ""Masonry"", ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,182
+R3,"{""architectureType"": ""Two Family"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""heating"": true, ""unitCount"": 1}",Single Family,183
+Unknown,"{""exteriorType"": ""Vinyl"", ""floorCount"": 2, ""foundationType"": ""Block"", ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 6}",Single Family,184
+Unknown,"{""architectureType"": ""Ranch"", ""exteriorType"": ""OTHER"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Hot Water"", ""roofType"": ""Asphalt"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,185
+Unknown,"{""architectureType"": ""Conventional"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""roomCount"": 4, ""unitCount"": 1}",Land,186
+Unknown,NaN,Single Family,187
+Z237,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,188
+Unknown,NaN,Apartment,189
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick / Stone"", ""fireplace"": true, ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Shingle"", ""unitCount"": 1, ""garage"": true, ""garageType"": ""Basement""}",Single Family,190
+R-3(RESIDENTIAL 3 DU/AC),"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood Shingle"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Roll Tar & Gravel"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,191
+UNZONED RURAL,"{""exteriorType"": ""Asbestos Shingle"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Pier"", ""heating"": true, ""heatingType"": ""Electric"", ""roofType"": ""Asphalt"", ""roomCount"": 5}",Single Family,192
+1112,"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Marblecrete"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 7, ""unitCount"": 1, ""floorCount"": 2}",Single Family,193
+Unknown,"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick / Stone"", ""floorCount"": 1, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Gas"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,194
+RSF95,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""fireplaceType"": ""2 Story"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,195
+Unknown,{},Unknown,196
+L10,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Metal"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Package""}",Single Family,197
+RS-MD,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Evaporative"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Footing"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,198
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Other"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Pier / Post & Beam"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,199
+Unknown,{},Single Family,200
+GR10,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,201
+R90,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""fireplaceType"": ""2 Story"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,202
+Unknown,{},Manufactured,203
+Unknown,"{""floorCount"": 1, ""roomCount"": 4, ""unitCount"": 1}",Condo,204
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""foundationType"": ""OTHER"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,205
+LDR LOW DENSITY RESIDENT,"{""architectureType"": ""Other"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Rock, Stone"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Footing"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Heat Pump"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,206
+R-1-D,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,207
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,208
+Unknown,"{""architectureType"": ""Mobile Home"", ""cooling"": true, ""heating"": true, ""heatingType"": ""Floor / Wall"", ""unitCount"": 1, ""coolingType"": ""Commercial""}",Manufactured,209
+Unknown,{},Single Family,210
+Unknown,"{""architectureType"": ""Conventional"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Tile"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,211
+Unknown,{},Unknown,212
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageType"": ""Mixed"", ""unitCount"": 1}",Single Family,213
+R-2,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Package"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""foundationType"": ""Footing"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,214
+MR-2,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,215
+R1,"{""architectureType"": ""Ranch"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,216
+Unknown,{},Unknown,217
+Unknown,{},Single Family,218
+Unknown,"{""exteriorType"": ""Vinyl"", ""floorCount"": 2, ""foundationType"": ""Block"", ""garage"": true, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Hot Water"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""cooling"": true, ""coolingType"": ""Central""}",Single Family,219
+02 - SINGLE RESIDENCE,"{""architectureType"": ""Ranch"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Hot Water"", ""unitCount"": 1}",Single Family,220
+R5,"{""architectureType"": ""Triplex"", ""floorCount"": 3, ""unitCount"": 3}",Condo,221
+Unknown,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stone"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Slate"", ""unitCount"": 1}",Single Family,222
+Unknown,{},Unknown,223
+Unknown,NaN,Single Family,224
+Unknown,"{""exteriorType"": ""Wood"", ""floorCount"": 1, ""foundationType"": ""Pier"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,225
+Unknown,NaN,Condo,226
+Unknown,{},Unknown,227
+Unknown,{},Unknown,228
+Unknown,{},Unknown,229
+R15,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Siding"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,230
+R-7,"{""cooling"": true, ""coolingType"": ""Refrigeration"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,231
+Unknown,NaN,Apartment,232
+Unknown,{},Unknown,233
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Tile"", ""unitCount"": 1}",Single Family,234
+Unknown,NaN,Apartment,235
+1206,"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,236
+Unknown,{},Unknown,237
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""unitCount"": 1}",Condo,238
+Unknown,{},Unknown,239
+Unknown,NaN,Townhouse,240
+Unknown,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick / Stone"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Gas"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,241
+Unknown,{},Single Family,242
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""pool"": true, ""poolType"": ""Pool and Hot Tub / Spa"", ""roofType"": ""Tile""}",Single Family,243
+Unknown,NaN,Condo,244
+Unknown,NaN,Apartment,245
+19,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""OTHER"", ""fireplace"": true, ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Heat Pump"", ""roofType"": ""Composition Shingle"", ""roomCount"": 4, ""architectureType"": ""Condo / Apartment""}",Condo,246
+Unknown,NaN,Condo,247
+R-1,"{""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Floor / Wall"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,248
+Unknown,"{""architectureType"": ""Ranch / Rambler"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""unitCount"": 1}",Apartment,249
+CR,"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 9, ""unitCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached""}",Single Family,250
+Unknown,{},Unknown,251
+R1,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stone"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 3, ""unitCount"": 1}",Condo,252
+Unknown,"{""architectureType"": ""Modern"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick / Stone"", ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Garage"", ""roofType"": ""Roll Tar & Gravel"", ""unitCount"": 1}",Single Family,253
+Unknown,{},Unknown,254
+R-1,"{""architectureType"": ""European"", ""cooling"": true, ""coolingType"": ""Central""}",Manufactured,255
+Unknown,{},Unknown,256
+Z239,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Condo,257
+R-1:SINGLE FAM-RES,"{""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,258
+Unknown,NaN,Single Family,259
+RS-6.7,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,260
+RMD-B,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,261
+Unknown,"{""garage"": true, ""garageType"": ""Detached"", ""unitCount"": 1}",Single Family,262
+Unknown,"{""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,263
+RSF2,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,264
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""fireplaceType"": ""Masonry"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 8}",Single Family,265
+Unknown,"{""architectureType"": ""Mobile Home"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""OTHER"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air""}",Manufactured,266
+Unknown,"{""cooling"": true, ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Gas"", ""roomCount"": 7, ""coolingType"": ""Commercial""}",Single Family,267
+R1,"{""architectureType"": ""Contemporary"", ""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,268
+R1C,"{""architectureType"": ""Bi-Level"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Block"", ""garage"": true, ""garageType"": ""Mixed"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 5}",Single Family,269
+Unknown,NaN,Condo,270
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Vinyl"", ""fireplace"": true, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Shingle""}",Single Family,271
+Unknown,{},Unknown,272
+Unknown,{},Unknown,273
+D,"{""architectureType"": ""Duplex"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 2}",Duplex-Triplex,274
+Unknown,NaN,Single Family,275
+Unknown,"{""architectureType"": ""Modern"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 5, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""roomCount"": 4, ""unitCount"": 1}",Single Family,276
+Unknown,NaN,Condo,277
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""OTHER"", ""floorCount"": 1, ""foundationType"": ""Block"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 4}",Single Family,278
+Unknown,NaN,Condo,279
+PDR 3.650,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Commercial"", ""fireplace"": true, ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Package"", ""roomCount"": 4, ""unitCount"": 1}",Single Family,280
+R1,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,281
+Unknown,"{""exteriorType"": ""Wood"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Gas"", ""roofType"": ""Composition Shingle""}",Single Family,282
+A,"{""unitCount"": 1}",Single Family,283
+Unknown,"{""architectureType"": ""Mobile Home"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Metal Siding"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""unitCount"": 1}",Manufactured,284
+R-5,"{""exteriorType"": ""Wood Shingle"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Shingle"", ""unitCount"": 1}",Single Family,285
+R1,"{""exteriorType"": ""Brick"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 6}",Single Family,286
+Unknown,{},Unknown,287
+R5,"{""architectureType"": ""Condo / Apartment"", ""unitCount"": 1}",Condo,288
+Unknown,"{""architectureType"": ""Ranch"", ""exteriorType"": ""OTHER"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Wood Shingle"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,289
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""fireplaceType"": ""Masonry"", ""floorCount"": 2, ""foundationType"": ""OTHER"", ""garage"": true, ""garageSpaces"": 5, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,290
+R3-1,"{""architectureType"": ""Duplex"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""unitCount"": 2}",Duplex-Triplex,291
+Unknown,"{""architectureType"": ""Split Entry"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Vinyl"", ""fireplace"": true, ""fireplaceType"": ""Prefab"", ""floorCount"": 1, ""foundationType"": ""Block"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,292
+R-7,"{""architectureType"": ""Cape Cod"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""foundationType"": ""Block"", ""roofType"": ""Shingle"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,293
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,294
+Unknown,"{""architectureType"": ""Traditional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageType"": ""Mixed"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,295
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Other"", ""floorCount"": 2, ""foundationType"": ""Concrete"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Tile"", ""unitCount"": 1}",Single Family,296
+Unknown,NaN,Condo,297
+PD-A,"{""architectureType"": ""Contemporary"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,298
+Unknown,{},Unknown,299
+Z236,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,300
+NCTH,"{""architectureType"": ""Two Family"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""floorCount"": 2, ""foundationType"": ""Slab"", ""heating"": true, ""heatingType"": ""Heat Pump"", ""roofType"": ""Asphalt"", ""roomCount"": 7, ""unitCount"": 1}",Duplex-Triplex,301
+Unknown,"{""floorCount"": 5}",Condo,302
+PAD,"{""cooling"": true, ""coolingType"": ""Refrigeration"", ""exteriorType"": ""Wood"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Gravity"", ""roofType"": ""Other"", ""unitCount"": 1}",Single Family,303
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 2, ""garage"": true, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 6, ""unitCount"": 1}",Duplex-Triplex,304
+Unknown,{},Unknown,305
+1110,"{""architectureType"": ""Modern"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Built-in"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 15, ""unitCount"": 1}",Single Family,306
+R-1:SINGLE FAM-RES,"{""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,307
+Unknown,{},Unknown,308
+Unknown,{},Unknown,309
+PAD,{},Land,310
+Unknown,"{""exteriorType"": ""Brick Veneer"", ""garage"": true, ""garageType"": ""Carport"", ""roomCount"": 10, ""unitCount"": 1, ""floorCount"": 1}",Single Family,311
+Unknown,NaN,Condo,312
+R,"{""architectureType"": ""Contemporary"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 5, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Gas"", ""roofType"": ""Asphalt"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,313
+Unknown,{},Unknown,314
+Unknown,"{""floorCount"": 1, ""unitCount"": 1}",Single Family,315
+Unknown,{},Unknown,316
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Tile"", ""roomCount"": 3}",Condo,317
+MPR1*,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 10, ""unitCount"": 1}",Single Family,318
+Unknown,NaN,Single Family,319
+Unknown,{},Unknown,320
+Unknown,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""heating"": true, ""roomCount"": 5, ""unitCount"": 1}",Single Family,321
+Unknown,{},Land,322
+RSA5,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Basement"", ""heating"": true, ""roomCount"": 6, ""unitCount"": 1, ""viewType"": ""Average""}",Single Family,323
+Unknown,{},Unknown,324
+PAD,"{""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 4, ""garageType"": ""Garage"", ""heating"": true, ""pool"": true, ""roofType"": ""Concrete"", ""cooling"": true, ""coolingType"": ""Refrigeration""}",Single Family,325
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""floorCount"": 1, ""foundationType"": ""Retaining Wall"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,326
+R1,"{""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached Garage"", ""heating"": true, ""heatingType"": ""Central"", ""pool"": true, ""roofType"": ""Gravel / Rock"", ""unitCount"": 1}",Single Family,327
+Unknown,{},Unknown,328
+R-6,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""fireplace"": true, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""unitCount"": 1}",Duplex-Triplex,329
+B4N,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Gravel"", ""roomCount"": 4}",Condo,330
+Unknown,{},Unknown,331
+Unknown,"{""exteriorType"": ""Wood"", ""floorCount"": 1, ""unitCount"": 1}",Single Family,332
+Unknown,"{""architectureType"": ""Cape Cod"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Composition"", ""floorCount"": 2, ""foundationType"": ""OTHER"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Shingle"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,333
+Unknown,{},Unknown,334
+Unknown,{},Unknown,335
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle""}",Single Family,336
+R,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 9, ""unitCount"": 1}",Single Family,337
+MH-1,"{""architectureType"": ""Mobile Home"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Other"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Mixed"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Metal"", ""unitCount"": 1}",Manufactured,338
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,339
+LAR1,"{""architectureType"": ""Duplex"", ""cooling"": true, ""coolingType"": ""Commercial"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 2}",Duplex-Triplex,340
+Unknown,"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""fireplace"": true, ""fireplaceType"": ""Prefab"", ""floorCount"": 2, ""foundationType"": ""Block"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,341
+A,"{""garage"": true, ""garageType"": ""Garage"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,342
+P-D,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""pool"": true, ""roofType"": ""Composition Shingle""}",Single Family,343
+Unknown,{},Unknown,344
+Unknown,"{""fireplace"": true, ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Floor / Wall"", ""roofType"": ""Wood Shingle"", ""roomCount"": 4}",Single Family,345
+Unknown,{},Unknown,346
+Unknown,{},Unknown,347
+Unknown,NaN,Single Family,348
+Unknown,{},Unknown,349
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,350
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Other"", ""floorCount"": 1, ""foundationType"": ""OTHER"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Tile""}",Single Family,351
+RSA5,"{""architectureType"": ""Condo / Apartment"", ""exteriorType"": ""Brick"", ""floorCount"": 2, ""heating"": true, ""roomCount"": 6, ""unitCount"": 1, ""viewType"": ""Average""}",Single Family,352
+R1,"{""architectureType"": ""Split Level"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""fireplaceType"": ""Prefab"", ""floorCount"": 1, ""foundationType"": ""Footing"", ""garage"": true, ""garageType"": ""Basement"", ""heating"": true, ""heatingType"": ""Heat Pump"", ""roofType"": ""Composition Shingle""}",Single Family,353
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle""}",Single Family,354
+SDSF8000*,"{""architectureType"": ""Conventional"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,355
+Unknown,{},Unknown,356
+Unknown,"{""cooling"": true, ""fireplace"": true, ""garage"": true, ""garageSpaces"": 3, ""garageType"": ""Attached Garage"", ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""heating"": true, ""roofType"": ""Composition Shingle""}",Single Family,357
+Unknown,{},Unknown,358
+Unknown,{},Unknown,359
+RS-2,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Other"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,360
+RS-3,"{""architectureType"": ""Colonial"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick / Stone"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""pool"": true, ""roofType"": ""Asphalt"", ""roomCount"": 9, ""unitCount"": 1}",Single Family,361
+Unknown,"{""exteriorType"": ""Brick"", ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Steam"", ""roofType"": ""Asphalt"", ""roomCount"": 7, ""unitCount"": 2}",Duplex-Triplex,362
+RS-15,"{""architectureType"": ""Split Entry"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 2, ""foundationType"": ""Concrete"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Shingle (Not Wood)"", ""unitCount"": 1}",Single Family,363
+R1-6,"{""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,364
+Unknown,{},Unknown,365
+Unknown,"{""floorCount"": 2, ""foundationType"": ""None"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 8}",Single Family,366
+Unknown,"{""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,367
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,368
+R-1-EA-4,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""pool"": true, ""poolType"": ""Pool and Hot Tub / Spa"", ""roofType"": ""Composition Shingle"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,369
+LAR1,"{""architectureType"": ""Conventional"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Floor / Wall"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,370
+Unknown,{},Unknown,371
+Unknown,NaN,Single Family,372
+Unknown,"{""architectureType"": ""Bungalow"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick / Stone"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached"", ""roofType"": ""Shingle"", ""unitCount"": 1}",Single Family,373
+R-2A,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,374
+ZO01,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""fireplaceType"": ""Masonry"", ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 12, ""unitCount"": 1}",Single Family,375
+Unknown,{},Unknown,376
+Unknown,{},Unknown,377
+Unknown,NaN,Single Family,378
+Unknown,{},Unknown,379
+RA,"{""architectureType"": ""Ranch"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Hot Water"", ""roofType"": ""Asphalt"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,380
+R5,"{""cooling"": true, ""coolingType"": ""Evaporative"", ""exteriorType"": ""OTHER"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,381
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood Shingle"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 6, ""unitCount"": 1}",Condo,382
+Unknown,{},Unknown,383
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle""}",Single Family,384
+Unknown,{},Land,385
+Unknown,{},Unknown,386
+Unknown,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle""}",Single Family,387
+Unknown,"{""architectureType"": ""Condo / Apartment""}",Condo,388
+Unknown,{},Unknown,389
+R-6,"{""exteriorType"": ""Wood"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,390
+A-C,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""foundationType"": ""Slab"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Gravel"", ""unitCount"": 1}",Single Family,391
+Unknown,"{""unitCount"": 1}",Single Family,392
+R-15,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Retaining Wall"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,393
+Unknown,"{""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""foundationType"": ""OTHER""}",Single Family,394
+RS-LD,"{""architectureType"": ""Raised Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""foundationType"": ""Pier / Post & Beam"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,395
+PUD,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Tile"", ""viewType"": ""Water""}",Single Family,396
+KV,{},Land,397
+Unknown,NaN,Apartment,398
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""OTHER"", ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt"", ""roomCount"": 5}",Condo,399
+PUD,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Log"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,400
+Unknown,"{""floorCount"": 1, ""roomCount"": 6, ""unitCount"": 1}",Single Family,401
+Unknown,{},Unknown,402
+Unknown,"{""floorCount"": 1, ""roofType"": ""Aluminum"", ""unitCount"": 1}",Land,403
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""roofType"": ""Asphalt"", ""roomCount"": 6}",Single Family,404
+Unknown,{},Unknown,405
+RB4,"{""architectureType"": ""Ranch"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""unitCount"": 1}",Single Family,406
+Unknown,{},Duplex-Triplex,407
+Unknown,{},Apartment,408
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""fireplaceType"": ""Masonry"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""roomCount"": 3, ""unitCount"": 1}",Single Family,409
+Unknown,{},Unknown,410
+Unknown,{},Apartment,411
+PD,"{""architectureType"": ""Colonial"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""OTHER"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""roofType"": ""Asphalt"", ""roomCount"": 15, ""unitCount"": 1}",Single Family,412
+Unknown,{},Single Family,413
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Attached"", ""unitCount"": 1}",Single Family,414
+Unknown,"{""architectureType"": ""Other"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Other"", ""floorCount"": 1, ""foundationType"": ""Slab"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 4, ""unitCount"": 1, ""pool"": true}",Condo,415
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""unitCount"": 1}",Condo,416
+Unknown,"{""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,417
+R1,"{""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 10, ""unitCount"": 1}",Single Family,418
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""foundationType"": ""Raised"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,419
+Unknown,NaN,Land,420
+R4-1,"{""floorCount"": 1, ""unitCount"": 1}",Single Family,421
+01A,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Vinyl"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""roomCount"": 10, ""unitCount"": 1}",Single Family,422
+Unknown,{},Unknown,423
+Unknown,"{""cooling"": true, ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""roofType"": ""Composition Shingle"", ""coolingType"": ""Commercial""}",Single Family,424
+Unknown,NaN,Single Family,425
+Unknown,NaN,Land,426
+Unknown,"{""architectureType"": ""Cape Cod"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""unitCount"": 1}",Single Family,427
+PD,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,428
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Combination"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Shingle"", ""unitCount"": 1}",Single Family,429
+Unknown,{},Unknown,430
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Concrete Block"", ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6}",Single Family,431
+Unknown,"{""floorCount"": 1}",Single Family,432
+RSFA,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Heat Pump"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,433
+Unknown,"{""architectureType"": ""Modern"", ""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Wood Shingle"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,434
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""fireplaceType"": ""Gas Log"", ""floorCount"": 2, ""foundationType"": ""OTHER"", ""garage"": true, ""garageType"": ""Built-in"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,435
+RR,"{""architectureType"": ""Cape Cod"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick / Stone"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,436
+Unknown,"{""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,437
+Unknown,NaN,Single Family,438
+Unknown,NaN,Single Family,439
+Unknown,{},Single Family,440
+AGR-PUD,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 2, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Tile""}",Single Family,441
+R-1C,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 2, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached"", ""heating"": true, ""heatingType"": ""Central"", ""pool"": true, ""roomCount"": 4}",Single Family,442
+Unknown,{},Unknown,443
+R3A,"{""floorCount"": 2, ""unitCount"": 2, ""architectureType"": ""Duplex""}",Duplex-Triplex,444
+Unknown,{},Unknown,445
+Unknown,"{""architectureType"": ""Colonial"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick / Stone"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Gas"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,446
+RES,"{""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""foundationType"": ""Block with Runner"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,447
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Central"", ""unitCount"": 1}",Single Family,448
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Crawl / Raised"", ""heating"": true, ""heatingType"": ""Central""}",Single Family,449
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""foundationType"": ""Retaining Wall"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""pool"": true, ""roofType"": ""Shingle"", ""unitCount"": 1}",Single Family,450
+Unknown,"{""architectureType"": ""Ranch / Rambler"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,451
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""unitCount"": 1}",Condo,452
+Unknown,{},Single Family,453
+R-2,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""foundationType"": ""Raised"", ""garage"": true, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,454
+RL,"{""architectureType"": ""Condo / Apartment"", ""unitCount"": 1}",Condo,455
+R2,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Siding"", ""fireplace"": true, ""fireplaceType"": ""Gas Log"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,456
+Unknown,{},Unknown,457
+RSA5,"{""architectureType"": ""Condo / Apartment"", ""exteriorType"": ""Brick"", ""floorCount"": 2, ""roomCount"": 6, ""unitCount"": 1, ""viewType"": ""Average""}",Condo,458
+Unknown,"{""cooling"": true, ""coolingType"": ""Commercial"", ""fireplace"": true, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true}",Single Family,459
+Unknown,{},Unknown,460
+Unknown,{},Unknown,461
+Unknown,NaN,Land,462
+Unknown,{},Unknown,463
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick Veneer"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Electric"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,464
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Frame Siding"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Concrete"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,465
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Asphalt""}",Single Family,466
+Unknown,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,467
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""fireplaceType"": ""Single"", ""floorCount"": 1, ""foundationType"": ""Pier"", ""garage"": true, ""garageType"": ""Detached Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Asphalt"", ""unitCount"": 1}",Single Family,468
+Unknown,"{""architectureType"": ""Condo / Apartment"", ""unitCount"": 1}",Condo,469
+R-6,"{""architectureType"": ""Townhouse"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 2, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Radiant"", ""roofType"": ""Built-up"", ""unitCount"": 1}",Condo,470
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""foundationType"": ""Footing"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,471
+R6,"{""fireplace"": true, ""floorCount"": 3, ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air""}",Single Family,472
+RS,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,473
+Unknown,{},Unknown,474
+R10006,"{""architectureType"": ""Ranch"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Stucco"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Composition Shingle"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,475
+Unknown,NaN,Land,476
+MF,"{""exteriorType"": ""Wood"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Raised"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 5, ""unitCount"": 1}",Single Family,477
+LCA106,"{""architectureType"": ""Conventional"", ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Floor / Wall"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,478
+Unknown,NaN,Condo,479
+R10,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""floorCount"": 2, ""foundationType"": ""Slab"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Garage"", ""heating"": true, ""roofType"": ""Asphalt"", ""roomCount"": 5, ""unitCount"": 1}",Condo,480
+SF1,"{""exteriorType"": ""OTHER"", ""floorCount"": 1, ""foundationType"": ""Pier / Post & Beam"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,481
+R-3A,"{""architectureType"": ""Colonial"", ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Aluminum / Vinyl Siding"", ""fireplace"": true, ""fireplaceType"": ""Gas Log"", ""floorCount"": 2, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Composition Shingle"", ""roomCount"": 8, ""unitCount"": 1}",Single Family,482
+Unknown,NaN,Single Family,483
+Unknown,"{""exteriorType"": ""OTHER"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Detached"", ""roofType"": ""Composition Shingle""}",Single Family,484
+R-1-B,"{""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 3, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Slate"", ""roomCount"": 19, ""unitCount"": 1}",Single Family,485
+Unknown,NaN,Single Family,486
+Unknown,"{""architectureType"": ""Traditional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Concrete Block"", ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 1, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,487
+MUR-70,"{""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageType"": ""Carport"", ""heating"": true, ""heatingType"": ""Electric"", ""unitCount"": 1}",Single Family,488
+Unknown,"{""floorCount"": 1, ""unitCount"": 1}",Single Family,489
+Unknown,NaN,Apartment,490
+Unknown,"{""architectureType"": ""Bi-Level"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Other"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roofType"": ""Shingle"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,491
+Unknown,{},Unknown,492
+PRD-5,"{""garage"": true, ""garageType"": ""Garage"", ""unitCount"": 1, ""cooling"": true, ""coolingType"": ""Commercial"", ""exteriorType"": ""Stucco"", ""floorCount"": 1, ""heating"": true, ""heatingType"": ""Forced Air"", ""roofType"": ""Tile""}",Single Family,493
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Brick"", ""fireplace"": true, ""floorCount"": 1, ""foundationType"": ""Slab / Mat / Raft"", ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Attached"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 7, ""unitCount"": 1}",Single Family,494
+Unknown,"{""unitCount"": 1}",Single Family,495
+Unknown,{},Unknown,496
+Unknown,{},Unknown,497
+Unknown,"{""cooling"": true, ""coolingType"": ""Central"", ""fireplace"": true, ""floorCount"": 1, ""garage"": true, ""garageSpaces"": 2, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Central"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,498
+PD,"{""architectureType"": ""Conventional"", ""cooling"": true, ""coolingType"": ""Central"", ""exteriorType"": ""Wood"", ""fireplace"": true, ""fireplaceType"": ""Prefab"", ""floorCount"": 1, ""garage"": true, ""garageType"": ""Garage"", ""heating"": true, ""heatingType"": ""Forced Air"", ""roomCount"": 6, ""unitCount"": 1}",Single Family,499
+Unknown,"{""cooling"": true, ""coolingType"": ""Package"", ""exteriorType"": ""Brick"", ""floorCount"": 1, ""foundationType"": ""Footing"", ""heating"": true, ""heatingType"": ""Radiant"", ""roofType"": ""Composition Shingle"", ""unitCount"": 1}",Single Family,500
